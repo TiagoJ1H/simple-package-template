@@ -1,27 +1,26 @@
-# package_name
+# projeto_teste
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package projeto_teste is used to:
+print "Hello World!
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install projeto_teste
 
 ```bash
-pip install package_name
+pip install projeto_teste
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from projeto_teste import hello
+hello.my_function()
 ```
 
 ## Author
-My_name
+Tiago
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
