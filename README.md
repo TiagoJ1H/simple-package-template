@@ -2,7 +2,7 @@
 
 Description. 
 The package projeto_teste is used to:
-print "Hello World!
+print "Hello World!"
 
 ## Installation
 
